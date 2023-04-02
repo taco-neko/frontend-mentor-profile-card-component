@@ -1,0 +1,11 @@
+# gitignore for Frontend Mentor challenges
+
+*.sketch
+*.fig
+*.xd
+.DS_Store
+.prettierignore
+design/
+README-template.md
+style-guide.md
+sass/
